@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C#, JS, Asp.NET and Angular.**
 
-- 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/-Shima ALAriemi-c14438?logo=Gmail&logoColor=white&link=mailto:shooomi9988@gmail.com)
+- 📫 How to reach me ![Gmail Badge](https://img.shields.io/badge/-ShimaALAriemi-c14438?logo=Gmail&logoColor=white&link=mailto:shooomi9988@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Kn2Zc_uFtvVLv33dGW8EpeeeOHKdzxc3?usp=drive_link](https://drive.google.com/drive/folders/1Kn2Zc_uFtvVLv33dGW8EpeeeOHKdzxc3?usp=drive_link)
 
